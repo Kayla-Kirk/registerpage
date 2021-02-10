@@ -1,0 +1,39 @@
+body{
+    background-color: lightskyblue;
+}
+.top{
+    border: solid 2px lightgrey;
+    background: white;
+    margin: auto;
+    padding: 10px;
+    text-align: right;
+    box-align: right;
+}
+.main-content{
+    box-align: center;
+    text-align: center;
+    padding: 15px 15px 15px 15px;
+    margin: auto;
+    width: 30%;
+
+}
+.signup{
+    background: white;
+    border: solid 2px lightgray;
+    border-radius: 15px;
+}
+.email{
+    padding: 5px;
+}
+.username{
+    padding: 5px;
+}
+.password{
+    padding: 5px;
+}
+.confirmpassword{
+    padding: 5px;
+}
+.button{
+    padding: 10px;
+}
